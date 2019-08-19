@@ -10,3 +10,7 @@
 ## Noises 
 
 - [white noise](https://en.wikipedia.org/wiki/White_noise#Mathematical_definitions)
+
+
+## Basic Statistical Concepts 
+- [product distribution](https://en.wikipedia.org/wiki/Product_distribution)
