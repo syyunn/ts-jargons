@@ -28,7 +28,8 @@ Following propositions are all `True`
 
 ## Useful Understandings 
 - In Time Series Analysis, `order k` usually means `window size` of time series. 
-
+- Auto-correlation means correlation to `the self series` with a lag variable.
+ 
 <p align="left">
   <img src="/assets/order.png">
 </p>
