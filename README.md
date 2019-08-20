@@ -22,4 +22,11 @@
 
 ## Confusable Jargons 
 
-- [difference equation](https://en.wikipedia.org/wiki/Recurrence_relation) == [recurrence relation](https://en.wikipedia.org/wiki/Recurrence_relation)  
+- [difference equation](https://en.wikipedia.org/wiki/Recurrence_relation) == [recurrence relation](https://en.wikipedia.org/wiki/Recurrence_relation)
+
+## Useful Understandings 
+- In Time Series Analysis, `order k` usually means `window size` of time series. 
+
+<p align="left">
+  <img src="/assets/order.png">
+</p>
