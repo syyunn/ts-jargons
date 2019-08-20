@@ -21,8 +21,10 @@
 - [product distribution](https://en.wikipedia.org/wiki/Product_distribution)
 
 ## Confusable Jargons 
+Following propositions are all `True`
 
 - [difference equation](https://en.wikipedia.org/wiki/Recurrence_relation) == [recurrence relation](https://en.wikipedia.org/wiki/Recurrence_relation)
+- [moving average model](https://en.wikipedia.org/wiki/Moving-average_model) != [moving average](https://en.wikipedia.org/wiki/Moving_average)
 
 ## Useful Understandings 
 - In Time Series Analysis, `order k` usually means `window size` of time series. 
